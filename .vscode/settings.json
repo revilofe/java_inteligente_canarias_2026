@@ -2,4 +2,14 @@
   "markdown.marp.themes": [
     "/docs/ab.css"
   ],
+  "chat.agentFilesLocations": {
+    ".agents": true
+  },
+  "chat.agentSkillsLocations": {
+    ".agents/skills": true,
+  },
+  "chat.promptFilesLocations": {
+    ".agents/prompts": true
+  },
+  "chat.useAgentsMdFile": true
 }
